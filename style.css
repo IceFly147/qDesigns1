@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+
+#header {
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+#picture {
+    text-align: center;
+    
+}
+
+#Instagram {
+    color: rgba(185,55,140,255);
+    transition: 0.2s;
+    text-decoration: none;
+    margin: 49%;
+}
+
+#Instagram:hover {
+    color: rgba(116,66,185,255);
+}
+
+#Copyright {
+    text-align: center;
+    width: 100%;
+}
