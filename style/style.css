@@ -85,14 +85,14 @@ body {
 
 @media (max-width: 480px) {
     #picture {
-      background-image: url(picture1klein.png);
+      background-image: url("picture1klein.png");
       background-repeat: no-repeat;
       background-size: contain ;
     }
   }
 @media (min-width: 481px) {
     #picture {
-      background-image: url(picture.png);
+      background-image: url("picture.png");
       background-repeat: no-repeat;
       background-size: contain ;
     }
