@@ -21,12 +21,6 @@ body {
     max-width: 100%;
 }
 
-.picture {
-    width: auto;
-    height: auto;
-    max-width: 100%;
-}
-
 #Instagram {
     color: rgba(185,55,140,255);
     transition: 0.2s;
